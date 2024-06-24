@@ -1,0 +1,27 @@
+#heading1{
+    text-decoration: line-through;
+}
+.Animal{
+    color: pink ;
+    text-decoration: wavy;
+}
+.home{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+text-decoration: line-through;
+}
+.pet{
+    color:aquamarine;
+}
+
+ul>li{
+    color: rgb(25, 100, 255);
+}
+
+p{
+    color: #255725;
+}
+img{
+    border:chocolate 5px solid;
+    padding: 50px;
+    margin-left: 100px;
+}
